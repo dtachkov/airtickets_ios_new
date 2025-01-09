@@ -159,7 +159,7 @@ PODS:
   - ImageViewer.swift (3.3.8)
   - KeychainSwift (24.0.0)
   - Kingfisher (7.12.0)
-  - lottie-ios (4.5.0)
+  - lottie-ios (4.5.1)
   - Moya/Combine (15.0.0):
     - Moya/Core
   - Moya/Core (15.0.0):
@@ -305,7 +305,7 @@ SPEC CHECKSUMS:
   ImageViewer.swift: 284cd8127d31af8e5938674fb9f8e695a4cdf6c6
   KeychainSwift: 007c4647486e4563adca839cf02cef00deb3b670
   Kingfisher: 53a10ea35051a436b5fb626ca2dd8f3144d755e9
-  lottie-ios: a881093fab623c467d3bce374367755c272bdd59
+  lottie-ios: 248b380fa1b97d18e792c37d90da7ab2aa0d6562
   Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
   nanopb: 438bc412db1928dac798aa6fd75726007be04262
   NeedleFoundation: ae0df46708acf26bd030390f2800bf167f29a942
@@ -319,6 +319,6 @@ SPEC CHECKSUMS:
   SwiftLint: 99f82d07b837b942dd563c668de129a03fc3fb52
   WLSDK: 093c72a2ac8c1727fc5980efda713b4a906dc1f1
 
-PODFILE CHECKSUM: af978dd256640514a9cb949845f1c1c95f7ada32
+PODFILE CHECKSUM: 5cc70c745402fffb38df74b6db48b9f9a86e5c15
 
 COCOAPODS: 1.15.2

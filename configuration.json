@@ -1,37 +1,34 @@
 {
     "base_configuration": {
         "identifier": {
-            "android": {
-                "id": ""
-            },
             "apple": {
-                "id": "",
-                "team_id": "",
-                "version": "1.0.0",
-                "build_number": 0
+                "id": "ru.airtickets.plane",
+                "team_id": "ru.airtickets.plane",
+                "version": "2.1",
+                "build_number": 4
             }
         },
         "display_name": {
             "base": "en",
             "localized": {
-                "en": "White Label App"
+                "en": "AirTickets"
             }
         }
     },
     "constants": {
-        "api_key": "",
+        "api_key": "40aa1345ae7f6e55e72568b27207f3e2",
         "policy_url": {
             "base": "en",
             "localized": {
-                "en": "",
-                "ru": ""
+                "en": "https://sites.google.com/view/privacy-bilety-na-samolety/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F",
+                "ru": "https://sites.google.com/view/privacy-bilety-na-samolety/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F"
             }
         },
         "feedback_email": "test@test.com",
         "google_maps_api_key": "",
         "appstore_id": "",
-        "client_device_host": "",
-        "marker": 0,
+        "client_device_host": "ios.ru.airtickets.plane",
+        "marker": 154286,
         "sharing_data": {
             "sharing_link": "https://www.google.ru",
             "handling_link": "https://www.google.ru"
@@ -67,8 +64,8 @@
             "developer": {
                 "base": "en",
                 "localized": {
-                    "en": "CleverPumpkin Ltd.",
-                    "ru": "CleverPumpkin Ltd."
+                    "en": "Dmitry Tachkov .",
+                    "ru": "Dmitry Tachkov"
                 }
             },
             "partner_url": {
