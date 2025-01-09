@@ -3,15 +3,16 @@
         "identifier": {
             "apple": {
                 "id": "ru.airtickets.plane",
-                "team_id": "ru.airtickets.plane",
-                "version": "2.1",
+                "team_id": "6EM4E5Z32S",
+                "version": "2.1.0",
                 "build_number": 4
             }
         },
         "display_name": {
             "base": "en",
             "localized": {
-                "en": "AirTickets"
+                "en": "AirTickets",
+                "ru": "Авиабилеты"
             }
         }
     },
@@ -64,7 +65,7 @@
             "developer": {
                 "base": "en",
                 "localized": {
-                    "en": "Dmitry Tachkov .",
+                    "en": "Dmitry Tachkov",
                     "ru": "Dmitry Tachkov"
                 }
             },
