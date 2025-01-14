@@ -4,15 +4,15 @@
             "apple": {
                 "id": "ru.airtickets.plane",
                 "team_id": "6EM4E5Z32S",
-                "version": "2.1.0",
-                "build_number": 4
+                "version": "2.1.1",
+                "build_number": 5
             }
         },
         "display_name": {
             "base": "en",
             "localized": {
                 "en": "AirTickets",
-                "ru": "Авиабилеты"
+                "ru": "Билеты на самолет"
             }
         }
     },
@@ -40,7 +40,7 @@
         "base_color": "#0000FE",
         "corners_type": "default",
         "icons_type": "tint",
-        "palette": "lab"
+        "palette": "hsv"
     },
     "info_screen_config": {
         "items_to_display": ["favorites", "about_app", "rate_app", "share_app"],
@@ -48,7 +48,7 @@
             "description": {
                 "base": "en",
                 "localized": {
-                    "en": "Best app for buying airtickets and ordering hotels."
+                    "en": "Best app for buying airtickets and ordering hotels.",
                     "ru": "Наше приложение предлагает авиабилеты в любуют точку России, Таджикистана, Узбекистана и других стран СНГ. Только у нас низкие цены, большой выбор авиакомпаний и рейсов в любую точку мира! "
                 }
             },
